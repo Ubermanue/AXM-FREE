@@ -1,7 +1,7 @@
-"""OPEN BY ALTALIMUL ISLAM """
+"""OPEN BY VIXVUX """
 #_____________________[ADMIN BOX]____________________________#
-""" AUTHOR : ALTALIMUL ISLAM MITUL """
-""" OWNER : ARAFAT AHAMMAD """
+""" AUTHOR : GMWBAO """
+""" OWNER : BMW-BVICO """
 #_____________________[IMPORT BOX]____________________________#
 import os,sys,random,string,json,uuid,base64,requests,httpx,time,datetime,platform, subprocess, re, shutil
 from time import localtime as lt
